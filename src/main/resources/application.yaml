@@ -1,0 +1,6 @@
+bootstrapservers: localhost:9092
+groupid: mygroupid
+offsettopic: myoffsettopic
+replicatorName: replicator
+mm2Name: mm2-msc
+processType: mm2
